@@ -7,17 +7,12 @@ This project analyzes Walmart’s historical transaction data using advanced MyS
 Dataset: Walmart Sales Dataset
 
 🎯 Business Problem
-Walmart aims to optimize its sales strategies by answering key questions such as:
-
-Which branch is growing the fastest?
-
-What are the most profitable product lines?
-
-How are customers segmented based on spending?
-
-Are there anomalies in sales transactions?
-
-Which payment methods are most preferred in each city?
+1.Walmart aims to optimize its sales strategies by answering key questions such as:
+2. Which branch is growing the fastest?
+3.What are the most profitable product lines?
+4.How are customers segmented based on spending?
+5.Are there anomalies in sales transactions?
+6.Which payment methods are most preferred in each city?
 
 📊 Key Tasks & Solutions
 Task 1: Identifying the Top Branch by Sales Growth Rate
@@ -66,42 +61,38 @@ Analyzed sales patterns to find high and low-performing days.
 Result:
 
 Highest Sales: Saturday
-
 Lowest Sales: Monday
 
 📈 Key Insights
-Branch A’s growth model can be replicated in underperforming branches.
+1.Branch A’s growth model can be replicated in underperforming branches.
 
-Certain product lines are high-margin and should be prioritized.
+2.Certain product lines are high-margin and should be prioritized.
 
-E-wallet adoption can be improved in Naypyitaw.
+3.E-wallet adoption can be improved in Naypyitaw.
 
-Female customers generally spend more but need retention strategies during certain months.
+4.Female customers generally spend more but need retention strategies during certain months.
 
-Saturday requires optimized staffing and inventory to meet high demand.
+5.Saturday requires optimized staffing and inventory to meet high demand.
 
 💡 Recommendations
-Expand Branch A’s model to other branches.
+1.Expand Branch A’s model to other branches.
 
-Increase promotions for top product lines.
+2.Increase promotions for top product lines.
 
-Incentivize digital payments in cash-heavy cities.
+3.Incentivize digital payments in cash-heavy cities.
 
-Launch female-focused loyalty campaigns.
+4.Launch female-focused loyalty campaigns.
 
-Implement “Super Saver Day” on low-sales days.
+5.Implement “Super Saver Day” on low-sales days.
 
-Engage top customers with personalized rewards.
+6.Engage top customers with personalized rewards.
 
-Offer subscriptions to repeat buyers.
+7.Offer subscriptions to repeat buyers.
 
-Optimize operations for weekend rush.
+8.Optimize operations for weekend rush.
 
 🛠️ Tech Stack
 Database: MySQL
-
 Data Analysis: SQL Queries, Window Functions, CTEs
-
 Visualization: Charts & Graphs in PowerPoint
-
 Tools: MySQL Workbench, MS PowerPoint
