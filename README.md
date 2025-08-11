@@ -97,3 +97,6 @@ Lowest Sales: Monday
   Data Analysis: SQL Queries, Window Functions, CTEs
   Visualization: Charts & Graphs in PowerPoint
   Tools: MySQL Workbench, MS PowerPoint
+
+
+      **This project is part of an academic submission and is for educational purposes only.**
